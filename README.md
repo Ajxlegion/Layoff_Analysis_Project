@@ -17,7 +17,7 @@ THE STEPS TAKEN TO CLEAN THE DATA!!
 
 -- EDA
 
-1. Here we are jsut going to explore the data and find trends or patterns or anything interesting like outliers
+1. Here we are just going to explore the data and find trends or patterns or anything interesting like outliers
 
 2. normally when you start the EDA process you have some idea of what you're looking for
 
